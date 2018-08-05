@@ -1,4 +1,7 @@
 # node.jsとbowerのインストール(homebrewから)
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/installiing_node_bower.svg)](https://www.guardrails.io)
+
 ndenv等でnode.jsのバージョンわけをするときは別途。
 
 ## 事前にインストールしておく
